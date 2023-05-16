@@ -119,17 +119,123 @@ The spatial or temporal topic of the ontology, the spatial applicability of the 
 A reference to a resource that provides an example of how this ontology can be used.
 
 ***Note**: This can be also a free text describing such use.*
+
 ## Methodology Information ##
-Emna
+
+### Conforms to knowledge representation paradigm ###
+A representation formalism that is followed to describe knowledge in an ontology. An established standard to which the described resource conforms. Examples include description logic, first-order logic, etc. 
+
+### Used ontology engineering methodology ###
+Information about the method model used to create the ontology.
+
+### Accrual method ###
+The method by which items are added to the ontology.   
+Here, the author(s) should describe in a few sentences the process by which an item is added. How are new terms identified? What are the validation steps for including new terms ? How are the deprecated terms handled ? Who participates (individual/group of persons) in the process ? etc.
+
+> Recommended values ⇒ "We are adding terms to the ontology after verifying …."
+
+### Competency question ###
+A set of questions made to build an ontology at the design time.  
+
+***Note**: Each CQ should be written in a sentence that starts with a capital letter and ends with a question mark—one CQ by line.*
+
+> Recommended values ⇒ "What are the vernacular names of a plant cultivated on the French territory?"
 
 ## More Links ##
-Emna
+
+### Version IRI ###
+List of keywords related to the ontology.
+
+***Note**: This metadata should contain the version IRI of the ontology if present. Otherwise, default IRI may be mentioned.*
+
+> Recommended values ⇒ https://w3id.org/myonto/2.0 
+
+### Source ###
+A related resource from which the described resource is derived.
+
+***Note**: It is expected to provide a URL (referring to any type of significant online resource, it could be a Web page, a database, a technical document, etc.).*
+
+### Is format of ###
+URL to the original document that describe this ontology in a not ontological format (i.e.: the OBO original file).
+
+### Has format ###
+URL to a document that describes this ontology in a not ontological format (i.e.: the OBO original file) generated from this ontology.   
+
+### included in data catalogue ###
+A data catalog which contains this ontology (i.e.: OBOfoundry, aber-owl, EBI, VEST registry...).
 
 ## Ontology Images ##
-Emna
+
+### Depiction ###
+A diagram describing the ontology.
+
+***Note**: This should be a resolvable URL.*
+
+### Logo ###
+A logo of the ontology if present.
+
+***Note**: This should be a resolvable URL.*
+
+### Associated media ###
+A media object that encodes this ontology. This property is a synonym for encoding.  
+
+***Note**: This should be any blog, whitepaper, news or webpage mentioning or describing the ontology. this should a resolvable URL.*
+
+### Valid until ###
+Date (often a range) of validity of the ontology.
+
+***Note**: For most of the ontologies, the latest submission is valid indefinitely. So this field should be empty.*
+
+> Recommended values ⇒ 2022-09-06T10:09:04+02:00 
+
+### Curated on ###
+The date the ontology was curated. 
+
+***Note**: This will be populated by the curator of the metadata. By default, this is the same as the submission date of the ontology.*
+
+> Recommended values ⇒ 2022-09-06T10:09:04+02:00 
 
 ## More Community Information ##
-Emna
+
+### Audience ###
+Description of the target user base of the ontology.
+
+***Note**: Free text, no formalism. It is expected to provide: a list of words describing the audience.*
+
+> Recommended values ⇒ "Any stakeholders in the life sciences."
+
+
+### To do list ###
+Describes future tasks planned by a resource curator.
+
+***Note**: Free text, no formalism. It is expected to provide: a list of to-do list.*
+
+> Recommended values ⇒ "To curate and add new concepts to the thesaurus. Translating the vocabulary to as many languages as requested."
+
+### User guidelines ###
+A related resource which defines how the ontology should be used.
+
+### Repository ###
+Link to the source code repository.
+
+***Note**: This contains the URL of the source code repository (e.g., GitHub repository).*
+
+> Recommended values ⇒ https://github.com/Planteome/plant-trait-ontology
+
+### Bug Database ###
+Link to the bug tracker of the ontology (i.e.: GitHub issues).  
+
+***Note**: This is an URL of the issue tracker (e.g., github issue tracker).*
+
+> Recommended values ⇒ https://github.com/EnvironmentOntology/envo/issues  
+
+### Mailing list ###
+Mailing list home page or email address.
+
+### Award ###
+An award won by this ontology.
+
+***Note**: Free text or URL.*
 
 ## More People Information ##
 
