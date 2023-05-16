@@ -344,3 +344,38 @@ A ontology that is a translation of the content of this ontology.
 The ontology that this ontology has been translated from.
 
 ## More content information ##
+
+### Key classes ###
+??
+
+***Note**: Key classes (concepts) from the ontology.*
+
+### Endpoint ###
+This metadata should be an URI
+
+***Note**: this metadata contains the original source file in some repository (e.g., GitHub).*
+
+### Data dump ###
+This metadata should be an URI
+
+### CSV dump ###
+This metadata should be an URI
+
+### Open search description ###
+This metadata should be an URI
+
+### URI Lookup Endpoint ###
+A protocol endpoint for simple URI lookups for the ontology.
+
+### URI Regex Pattern ###
+A regular expression that matches the URIs of the ontology entities.
+
+### Metadata vocabulary used ###
+Vocabularies that are used and/or referred to create the described ontology.
+
+
+### Example identifier ###
+An example identifier used by one item (or record) from a dataset.
+
+## More metrics information ##
+
