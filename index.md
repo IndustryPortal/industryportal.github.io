@@ -2,6 +2,8 @@
 
 You can use the [IndustryPortal website](http://industryportal.enit.fr/) to maintain and preview the content for your website in Markdown files.
 
+You can see the submission guide [here](https://industryportal.github.io/submission-guide) 
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown

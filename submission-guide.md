@@ -343,6 +343,16 @@ A ontology that is a translation of the content of this ontology.
 ### Translation of ###
 The ontology that this ontology has been translated from.
 
+## Ontology Content ##
+
+### Preferred namespace prefix ###
+The preferred namespace prefix to use when using terms from this ontology.
+
+### Preferred namespace URI ###
+The preferred namespace URI to use when using terms from this ontology.
+
+> http://purl.obolibrary.org/obo/ENVO_
+
 ## More content information ##
 
 ### Key classes ###
