@@ -8,7 +8,7 @@ listed. This outcome can provide a practical benefit to the engineering and indu
 communities."_ - __Barry Smith, University of Buffalo, Author of Basic Formal Ontology (ISO/IEC 21838-2:2021)__
 
 In summary, the current version of IndustryPortal lets any user to:
-* To submit a new ontology in public or private mode; 
+* To submit a new ontology in public or private mode;  
 *	To edit various ontology metadata (i.e., acronym, visibility, description, status, format, and contact) and other FAIR related metadata;
 *	To evaluate the FAIRness of an ontology; 
 *	To maintain different releases of ontology as part of version management;
@@ -20,10 +20,14 @@ In summary, the current version of IndustryPortal lets any user to:
 
 For some functionalities, e.g., submitting and editing metadata of an ontology, please [__Register here!__](http://industryportal.enit.fr/accounts/new) first. 
 
+For a quick start, please visit [__Documentation__]().
+
 ## Vision: 
 IndustryPortal aims to promote reuse of ontology in the semantic data application in industries by providing a sustainable, FAIR, and Open repository for the persistence of ontology from Industrial domain. Furthermore, IndustryPortal aspires to serve as a platform for the ontology life-cycle and a pivotal link in the complete tool-chain required for enterprise-level ontology-driven data management projects. 
 
 ## Mission: 
-IndutryPortal offers a trusted and open repository for storing, versioning, and maintaining metadata of an ontology. It provides in-built visualisation tools which will let users view the content of the ontology without using any separate tool. Furthermore, IndustryPortal also provides many other tools e.g.,  class browser, annotator, and recommendation to find suitable ontologies for a specific data. IndustryPortal provides a detailed set of metadata and an in-built FAIRness evaluation tool ([O'Faire](https://github.com/agroportal/fairness)) to guide users to users to ensure the FAIReness of their ontology. IndustryPortal strives to create a community of dedicated users and moderators tosure   
+IndutryPortal offers a trusted and open repository for storing, versioning, and maintaining metadata of an ontology. It provides in-built visualisation tools which will let users view the content of the ontology without using any separate tool. Furthermore, IndustryPortal also provides many other tools e.g.,  class browser, annotator, and recommendation to find suitable ontologies for a specific data. IndustryPortal provides a detailed set of metadata and an in-built FAIRness evaluation tool ([O'Faire](https://github.com/agroportal/fairness)) to guide users to users to ensure the FAIReness of their ontology. IndustryPortal strives to create a community of dedicated users and moderators to ensure accuracy and relevancy of the ontologies and their metadata.
+
+
 
 
