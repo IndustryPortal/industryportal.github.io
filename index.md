@@ -5,7 +5,7 @@
 > _"One of the main services that the OntoCommons project can offer is to
 create a public resource where all the major ontologies, their uses, and their users, are
 listed. This outcome can provide a practical benefit to the engineering and industrial
-communities."_ - __Barry Smith, University of Buffalo, Author of Basic Formal Ontology (ISO/IEC 21838-2:2021)__
+communities."_ - __Barry Smith,__ [__Interview with OntoCommons__](https://ontocommons.eu/news-events/news/ontocommons-standardisation-environment-interview-barry-smith).
 
 In summary, the current version of IndustryPortal lets any user to:
 * To submit a new ontology in public or private mode;  
